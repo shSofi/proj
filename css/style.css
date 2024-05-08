@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {   font-family: "Cormorant Garamond", serif;
+
+}
+header{
+    background-color: rgb(140, 89, 23);
+    text-align: center;
+}
+footer{ background-color: rgb(140, 89, 23);
+    padding: 20px 50px ;
+    
+}
+.about {
+    background-color: rgb(163, 154, 126);
+    padding: 20px 50px;
+}
+.articles {
+    background-color: antiquewhite;
+}
+h2{
+    text-align: center;
+    font-size: 2em;
+}
+.avatar { 
+    display: block;
+    margin: 20px auto;
+    width: 10em;
+}
+p { font-size: 1.4em;
+line-height: 2em;
+text-align: justify}
+.list {
+    margin-left: 50px;
+    font-size: 1.5em;
+}
+nav {
+    padding: 20px 50px;
+}
+.menu {
+    list-style: none;
+    text-align: center;
+}
+.text{font-size: 1.5em;
+    line-height: 2.5em;
+}
+.photo{
+    display: block;
+    margin: 60px auto;
+    }
+.text1{
+    margin-left: 50px;
+    font-size: 1.5em;
+    text-align: left;
+}
+h3 {
+    text-align: center;
+    color: #776a51;
+}
+h4 {
+    margin-left: 50px;
+    font-size: 1.5em;  
+}
+.SAE {
+    display: block;
+    margin: 2em auto;
+}
+.vsc {display: block;
+    margin: 20px auto;
+    width: 2em;}
+.lol { margin-left: 40px;
+    font-size: 1.5em;}
+.ttt  { display: block;
+    margin: 20px auto;
+    width: 20em;
+}    
+.kek {margin-left: 40px;
+    font-size: 1.5em;}
+dt{margin-left: 50px;
+    font-size: 1.5em;  
+}
+dd {
+    margin-left: 50px;
+    font-size: 1.5em;  
+}
+.p1{ font-size: 1.4em;
+    line-height: 2em;
+    text-align: center}
+    .list {
+        margin-left: 50px;
+        font-size: 1.5em;
+
+}
+.p2{ font-size: 8em;}
+.p3{ font-size: 4em;}
+.p4{font-size: 4em;
+    line-height: 2em;
+    text-align: center}
+    .list {
+        margin-left: 50px;
+        font-size: 1.5em;
+
+}
